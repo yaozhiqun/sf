@@ -1,0 +1,8 @@
+logs
+target
+/classes
+/checkouts
+*.jar
+*.class
+.idea/*
+tags
