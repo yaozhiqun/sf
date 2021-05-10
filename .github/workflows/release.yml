@@ -15,5 +15,5 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: ./dist/nd2
-          asset_name: nd2
+          asset_name: nd2-0.0.4
           tag: ${{ github.ref }}
